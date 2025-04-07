@@ -5,4 +5,3 @@ Made for college as a educational game for primary schools.
 
 
 
-TESTE
