@@ -3,8 +3,6 @@
 [Megaman](https://www.youtube.com/watch?v=dHqv5VKP-wY)
 ![[Pasted image 20250407190853.png]]
 
-Em megaman você começa o jogo na seleção de personagens, onde pode escolher livremente o ¨chefe¨ que quer enfrentar. Utilizando o poder de outros chefes para ser mais efetivo em determinada batalha.
-
 Sistema de armas novas após coleta de itens em fases.
 
 
@@ -20,6 +18,16 @@ Mecânicas de combate real-time com cenário top-down.
 Sistema de seleção de fases com base de símbolos
 
 
+ [Hades](https://www.youtube.com/watch?v=zjjup-a9C80&list=PLHvnuL-DiXkiDBVrtlgivHRMJ4dbRbgOe)
+ ![[Pasted image 20250408155810.png]]
+ 
+Conceitos de rogue-like, introdução de universo.
+
+
+[The Binding of isaac](https://www.youtube.com/watch?v=vuIpDoqECZo)
+![[Pasted image 20250408155934.png]]
+
+Sistema de sala procedurais
 
 
 ---
