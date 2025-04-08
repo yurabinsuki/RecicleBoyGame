@@ -33,7 +33,7 @@ Sistema de ¨quests¨ baseado em coleta.
 ## Mecânicas de personagem
 
 #### Movimentação
-- Andar em 8 direções
+- Andar 
 - Rolamentos
 - Pulos
 - Escalar
