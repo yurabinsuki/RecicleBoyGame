@@ -1,7 +1,7 @@
 # RecicleBoyGame
-A short game inspired by megaman about the importance of reciclying.
+Uma proposta de jogo curto no estilo rogue-like, com a temática de conscientização sobre descarte de lixo.
 
-Made for college as a educational game for primary schools.
+Visando o entretenimento e também a educação, um jogo apresentado em escolas primárias.
 
 
 
