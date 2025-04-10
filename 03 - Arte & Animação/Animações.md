@@ -1,22 +1,81 @@
 
 ---
+# Player
+
+## Movimentação
+
+#### Idle
 
 
-## Assets teste
+#### Walk
 
-[Pixelarium](https://lukepolice.itch.io/pixelarium-playable-character)
-![[Pasted image 20250408160703.png]]
+
+
+#### Dash
+
+
+
+## Ataque
+
+
+
+
+
+
+## Surf
+
+
+---
+# Inimigos
+
+## Movimentação
+
+#### Idle
+
+
+#### Walk
+
+
+
+## Ataque
+
+
+---
+# Cenário
+
+
+## Mar
+
+#### Onda
+
+
+## Pessoas
+
+Grupo conversando 
+
+
+Tomando Sol
+
+
+Jogando vôlei
+
+
+
+---
+## Detalhes adicionais (se sobrar tempo)
+
+
+
+
 
 
 
 
 ---
-## Detalhes adicionais
 
-
-
-
-
+## Assets usados nos testes
+[Pixelarium](https://lukepolice.itch.io/pixelarium-playable-character)
+![[Pasted image 20250408160703.png]]
 
 
 

@@ -1,13 +1,39 @@
 
-## Personagens
 
-Estilo gráfico de personagens: 16 x 16
-
+## Mapa
+![[Pasted image 20250409143537.png]]
 
 
 ---
 
+
+## Personagens
+16 x 32 ou 16 x 16
+
+### Player
+![[Pasted image 20250409230101.png]]
+
+
+### Inimigos
+
+
+
+
+
+---
 ## Cenário
+16 x 16
+
+
+### Tile set Areia
+
+
+
+### Tile set Mar
+
+
+
+
 
 
 

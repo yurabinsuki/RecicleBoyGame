@@ -1,9 +1,7 @@
 
 ## Conceito
 
-A história começa em um futuro alternativo onde o lixo intoxicou a cidade, tornando inabitável.
-
-O protagonista ¨Recicle Boy¨ tem uma tarefa de retornar no tempo e limpar a cidade, além de incentivar a população local a fazer o mesmo.
+Personagens crianças e adolescentes jogando vôlei, são impedidos devido a grande sujeira, que nojo!
 
 
 ---
@@ -11,13 +9,17 @@ O protagonista ¨Recicle Boy¨ tem uma tarefa de retornar no tempo e limpar a ci
 
 ## Inicio
 
-Assim como em [Hades](https://www.youtube.com/watch?v=zjjup-a9C80&list=PLHvnuL-DiXkiDBVrtlgivHRMJ4dbRbgOe) 
-O jogo já começa direto no ¨combate¨, onde seria uma run completa até onde o player conseguir ou ser bloqueado por uma das fases, necessitando de um item para progredir.
+O jogo começa com uma cutscene onde o protagonista e seus amigos estão em uma partida de vôlei, mas incomodados com a quantidade de lixo na praia.
 
-Assim indo ao Hub pela primeira vez, onde é introduzido pelos cientistas sobre sua missão através de diálogos um pouco expositivos mas bem humorados.
+O protagonista estava prestes a sacara, quanto vem a gota d'água, uma sacola em seu rosto.
+Assim, ele e seus amigos bolam um plano para limpar toda a praia para que possam jogar em paz.
 
-Andando pelo cenário, consegue ver alguns outros npcs que estão trabalhando em um novo tipo de arma ou equipamento, e te pedem que traga recursos específicos para liberar.
+
 
 
 
 ---
+
+
+
+

@@ -12,22 +12,24 @@ Sistema de armas novas após coleta de itens em fases.
 Mecânicas de combate real-time com cenário top-down.
 
 
-[Inscryption](https://www.youtube.com/watch?v=HYGGeFhqTMg)
-![[Pasted image 20250407220652.png]]
+[Castle Crashers](https://www.youtube.com/watch?v=g5EzyUGgz8A)
+![[Pasted image 20250409203603.png]]
 
-Sistema de seleção de fases com base de símbolos
+Sistema de escolhas de fases e mapa.
 
 
- [Hades](https://www.youtube.com/watch?v=zjjup-a9C80&list=PLHvnuL-DiXkiDBVrtlgivHRMJ4dbRbgOe)
- ![[Pasted image 20250408155810.png]]
- 
-Conceitos de rogue-like, introdução de universo.
 
 
 [The Binding of isaac](https://www.youtube.com/watch?v=vuIpDoqECZo)
 ![[Pasted image 20250408155934.png]]
 
-Sistema de sala procedurais
+Sistema de salas aleatórias
+
+
+[Pizza tower](https://www.youtube.com/watch?v=1tUpA4edMoI) 
+![[Pasted image 20250409203328.png]]
+
+Sistema de poses e ¨Pizza Time¨
 
 
 ---

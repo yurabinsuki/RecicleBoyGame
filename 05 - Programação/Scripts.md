@@ -1,5 +1,5 @@
 
-## PlayerMoviment
+## Movimentação + Configuração de animações
 ```
 using UnityEngine;
 
@@ -115,3 +115,8 @@ public class PlayerMovement : MonoBehaviour
 
 }
 ```
+
+
+
+
+---

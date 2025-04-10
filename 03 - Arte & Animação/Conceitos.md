@@ -1,5 +1,36 @@
 
-Os cenários do jogo são inspirados em uma cidade de praia.
-Urbano com vegetações praieiras, sol e vibrante.
+Os cenários do jogo são todos em praias diferentes, podendo ser somente na areia, ou após upgrade, dê para surfar.
 
-Já no cenário do Hub ¨futuro¨, será uma vibe mais laboratório de garagem, como em [Dragon Ball](https://www.youtube.com/watch?v=oLuZtgtA1Vs) 
+Cenário de reunião do grupo 
+
+---
+
+## Inimigos
+![[Pasted image 20250409113210.png]]
+
+Tipos de lixos encontrados na praia
+- Bitucas de cigarro
+- Garrafas PET
+- Canudos
+- Sacolas plásticas
+- Garrafas de vidro
+- Pedaços de isopor
+- Micro plásticos
+
+
+### Inimigos "Fujões"
+- [ ] Isoporzinho
+- [ ] Bituca de cigarro 
+- [ ] Tampinhas (metal ou plástico)
+
+
+### Inimigos agressivos
+- [ ] Garrafa Pet (dano contato)
+- [ ] Sacola (estilo projétil, voa pro contato)
+- [ ] Lata de cerveja (dano contato) Spawnada por npc pai
+
+### Bosses
+- [ ] Macroplástico
+
+
+### Final Boss
