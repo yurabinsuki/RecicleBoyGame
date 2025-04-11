@@ -8,7 +8,7 @@
 
 
 ## Personagens
-16 x 32 ou 16 x 16
+![[Modelo_Base_img.png]]
 
 ### Player
 ![[Pasted image 20250409230101.png]]

@@ -8,6 +8,7 @@
 
 
 #### Walk
+![[Modelo_Base_Walk.gif]]
 
 
 
