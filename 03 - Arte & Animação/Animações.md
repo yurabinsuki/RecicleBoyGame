@@ -5,10 +5,10 @@
 ## Movimentação
 
 #### Idle
-
+![[Personagens_Canela_Idle.gif]]
 
 #### Walk
-![[Modelo_Base_Walk.gif]]
+![[Personagens_Canela_Walk.gif]]
 
 
 

@@ -11,7 +11,7 @@
 ![[Modelo_Base_img.png]]
 
 ### Player
-![[Pasted image 20250409230101.png]]
+
 
 
 ### Inimigos
