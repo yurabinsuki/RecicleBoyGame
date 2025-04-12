@@ -13,7 +13,7 @@
 
 
 #### Dash
-
+![[Canela_Dash.gif]]
 
 
 ## Ataque

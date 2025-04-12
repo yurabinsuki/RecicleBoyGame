@@ -8,7 +8,7 @@
 
 
 ## Personagens
-![[Modelo_Base_img.png]]
+![[Modelo_Base.png]]
 
 ### Player
 
@@ -22,7 +22,7 @@
 
 ---
 ## Cenário
-16 x 16
+16 x 32
 
 
 ### Tile set Areia

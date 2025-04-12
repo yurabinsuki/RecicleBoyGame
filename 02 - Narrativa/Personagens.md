@@ -3,8 +3,8 @@
 ## Protagonista
 
 ### Canela
-Menino negro inspirado em super-choque
-
+![[Canela.png]]
+O protagonista dessa história, menino estoico e descolado, sempre toma a iniciativa.
 
 ---
 ## Amigos
