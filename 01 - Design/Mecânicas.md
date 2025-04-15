@@ -52,3 +52,7 @@ Para recuperar vida, somente dentro da própria fase, indo num chuveirinho de pr
 #### Spawn de monstros
 - A origem dos ¨monstros¨ são por conta de npcs que ficam descartando lixo, o jogador deve neutralizar com o botão de ¨pose¨, inspirado em [pizza tower](https://www.youtube.com/watch?v=1tUpA4edMoI) 
 Pose com placa de proibido lixo.
+
+
+
+Guto resgata canela caso vá muito pro fundo.

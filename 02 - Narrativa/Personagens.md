@@ -3,8 +3,8 @@
 ## Protagonista
 
 ### Canela
-![[Canela.png]]
-O protagonista dessa história, menino estoico e descolado, sempre toma a iniciativa.
+![[Canela 1.png]]
+O protagonista dessa história, menino descolado, mas meio bobo, sempre toma a iniciativa.
 
 ---
 ## Amigos
@@ -23,9 +23,6 @@ O protagonista dessa história, menino estoico e descolado, sempre toma a inicia
 #### Kenji
 
 
-#### Rafik
-
-
 #### Gael
 
 
@@ -36,6 +33,7 @@ O protagonista dessa história, menino estoico e descolado, sempre toma a inicia
 
 #### Guto 
 Primo do protagonista
+Trabalha como aprendiz de salva vidas
 
 #### Juba
 Interesse romântico do protagonista

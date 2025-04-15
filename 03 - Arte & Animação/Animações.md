@@ -5,12 +5,10 @@
 ## Movimentação
 
 #### Idle
-![[Personagens_Canela_Idle.gif]]
+![[Personagens_Canela_Idle 1.gif]]
 
 #### Walk
-![[Personagens_Canela_Walk.gif]]
-
-
+![[Personagens_Canela_Walk 1.gif]]
 
 #### Dash
 ![[Canela_Dash.gif]]
@@ -18,8 +16,12 @@
 
 ## Ataque
 
+#### Lata de Lixo
 
 
+#### Bola de Vôlei
+![[Canela_Ball_Attack.gif]]
+![[Volleyball.gif]]
 
 
 
