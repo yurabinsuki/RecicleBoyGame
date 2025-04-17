@@ -8,7 +8,7 @@ Pode utilizar power ups para acessar lugares antes não possíveis.
 
 ---
 
-## Fase 1
+## Design do mapa
 
 
 #### Coisas a se fazer

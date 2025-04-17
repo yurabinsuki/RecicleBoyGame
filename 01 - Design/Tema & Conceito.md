@@ -22,9 +22,8 @@ A cada ¨morte¨ o jogador retorna ao hub para comprar upgrades permanentes.
 
 ¨¨
 
-#### Trash match / Match o lixo fora
+#### Junk dunk
 
-Um jogo de vôlei entre amigos é interrompido pela sujeira da praia.
 
 
 
