@@ -2,9 +2,9 @@
 ## O castelo
 Quest necessária para desbloquear a [[RecicleBoyGame/01 - Design/Mecânicas#Pazinha|Pazinha]].
 
-Iniciada com [[RecicleBoyGame/02 - Narrativa/Personagens#Gael|Gael]].
+Iniciada com [[RecicleBoyGame/02 - Narrativa/Personagens#Malenia|Malenia]].
 
-Gael estará montando um castelo de areia em algum local da praia e te pede ajuda para finalizar o seu reinado.
+Malenia estará montando um castelo de areia em algum local da praia e te pede ajuda para finalizar o seu reinado.
 
 #### Parte 1
 Te pede para encontrar primeiramente espada, pois sem ela, não pode ser um honroso cavaleiro.
@@ -22,7 +22,7 @@ Indo para o Sul do mapa, é possível ver algumas árvores espalhadas pelo cená
 
 Retornando, o castelo está um pouco maior.
 
-Gael brilha os olhos com sua nova espada, mas afirma que não pode ser um cavaleiro sem um cavalo, e dá mais uma tarefa.
+Malenia brilha os olhos com sua nova espada, mas afirma que não pode ser um cavaleiro sem um cavalo, e dá mais uma tarefa.
 
 #### Parte 2
 Para prosseguir, é necessário o item Pranchinha.
@@ -34,12 +34,12 @@ Fazendo isso, o cachorro passa a seguir o player.
 Pode ser levado a Gael para a ultima tarefa.
 
 Retornando ao castelo, está enorme!
-Gael questiona do cavalo e então o cachorro vai em direção a ele, que o aceita.
+Malenia questiona do cavalo e então o cachorro vai em direção a ele, que o aceita.
 
-Enquanto Gael fala que precisa de um exercito e mil outras coisas para defender os muros, uma criancinha se aproxima querendo brincar com a areia do castelo. 
+Enquanto Malenia fala que precisa de um exercito e mil outras coisas para defender os muros, uma criancinha se aproxima querendo brincar com a areia do castelo. 
 Mas o cachorro a espanta em uma cena cômica dela correndo.
 
-Gael diz: É, vai servir.
+Malenia diz: É, vai servir.
 
 E então entrega a Pazinha ao player.
 

@@ -1,11 +1,5 @@
 
-
-## Mapa
-![[Pasted image 20250409143537.png]]
-
-
 ---
-
 
 ## Personagens
 
