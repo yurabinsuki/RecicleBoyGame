@@ -1,6 +1,11 @@
 
+- [x] Mudar para somente 4 direções
+- [x] Fazer o sprite das anotações
+- [ ] Fazer os sprites iniciais dos personagens principais
+	- [x] Bran
+- [ ] Fazer as animações de uso dos itens
+	- [x] Volei
 - [ ] Escolher o titulo do game 
 - [x] Fazer o canva com as sprites realizadas
-- [ ] Fazer as sprites dos itens coletáveis
+- [x] Fazer as sprites dos itens coletáveis
 - [ ] Postar no reddit
-- [ ] Mudar para somente 4 direções

@@ -4,38 +4,36 @@
 
 #### Movimentação
 - Andar 
-- Rolamentos
+- Correr
+- Surfar
 
 #### Ataques
-- Ataque com lata de lixo (contato)
+- Ataque com saco de lixo
+- Ataque com lata de lixo (boss)
 - Arremessar bola, deve buscar depois.
-- (utilizando a pranchinha) consegue utilizar a onda para causar um grande dano de contato.
 
+#### Utilizar itens
+- Cavar
+- Pose
+- Câmera (acesso ao Hud)
+
+
+---
+## Itens
 #### Pranchinha
-Liberada a mecânica assim que o jogador chegar ao [[RecicleBoyGame/01 - Design/Sistema de progressão#Fim da linha|Fim da linha]].
+Liberada a mecânica por [[RecicleBoyGame/02 - Narrativa/Personagens#Eddy|Eddy]].
 
 Uma prancha de surf infantil que consegue atravessar tiles de água espalhados pelo cenário, utilizada para conseguir acessar locais secretos. 
 
 #### Pazinha
-Utilitário adquirido de [[RecicleBoyGame/02 - Narrativa/Personagens#Luke|Luke]].
+Utilitário adquirido de [[RecicleBoyGame/02 - Narrativa/Personagens#Gael|Gael]].
 Possibilita o player a cavar em locais determinados marcados no mapa.
 
 #### Pose
-Habilidade aprendida com [[RecicleBoyGame/02 - Narrativa/Personagens#Gael|Gael]].
+Habilidade aprendida com [[RecicleBoyGame/02 - Narrativa/Personagens#Kenji|Kenji]].
 Possibilita ao player utilizar uma Pose para conseguir interagir com certos npcs.
 
----
-## Upgrades
-
-Liberados após a coleta de certos itens vindos de quests espalhadas pelo cenário ou recompensa de chefe / local escondido.
-
-
-**Vida / Stamina** 
-Recompensa por limpar fases, podendo ser aumentado com ¨investimento¨ de recursos.
-
-
-**Armas**
-Upgrade de Range, Tamanho e quantidade de armas.
+Notas
 
 
 ---
@@ -47,12 +45,12 @@ Para recuperar vida, somente dentro da própria fase, indo num chuveirinho de pr
 
 ---
 
-## Inimigos
+## Os lixos
 
-#### Spawn de monstros
+#### Spawn de Lixo
 - A origem dos ¨monstros¨ são por conta de npcs que ficam descartando lixo, o jogador deve neutralizar com o botão de ¨pose¨, inspirado em [pizza tower](https://www.youtube.com/watch?v=1tUpA4edMoI) 
 Pose com placa de proibido lixo.
 
 
+---
 
-Guto resgata canela caso vá muito pro fundo.
