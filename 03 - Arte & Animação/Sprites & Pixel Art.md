@@ -45,7 +45,6 @@ Tons de Azul / Verde
 #177e86
 
 Tons de Vermelho / Laranja
-#9a3242
 #b93c4e
 #ca6453
 #ce875f

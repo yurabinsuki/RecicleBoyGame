@@ -31,7 +31,7 @@ O mais velho do grupo, meses depois de Canela.
 
 Um garoto asiático, mais introvertido e reservado, gosta de se expressar com gestos.
 
-#### Malenia
+#### Malena
 A mais nova do grupo, Irmã adotiva de Kenji.
 
 Gosta muito de histórias medievais, não joga com o pessoal mas prepara o campo.
