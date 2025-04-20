@@ -1,29 +1,26 @@
 
 
-## Protagonista
+## PLAYER
 
 ### Canela
-![[Canela 1.png]]
+
 O protagonista dessa história, menino descolado, mas meio bobo, sempre toma a iniciativa.
 
 ---
-## Amigos
+## NPCS
 
-### Crianças
+### A panelinha
 
 #### Romeu
 O mais alto do grupo, apesar de ser da mesma idade.
-
 Tem a personalidade bem ¨tonta¨ e muda rápido de humor.
 
 #### Bran
 Garoto malandro.
-
 Gosta de pregar peças nos outros, o mais persuasivo do grupo.
 
 #### Brisa
 Uma garota meio tímida, gosta de desenhar seus amigos em flipbooks.
-
 ref: Kyomoto de look back
 
 #### Kenji
@@ -32,13 +29,13 @@ O mais velho do grupo, meses depois de Canela.
 Um garoto asiático, mais introvertido e reservado, gosta de se expressar com gestos.
 
 #### Malena
-A mais nova do grupo, Irmã adotiva de Kenji.
-
+A mais nova do grupo, Irmã de Kenji.
 Gosta muito de histórias medievais, não joga com o pessoal mas prepara o campo.
 Constrói castelos de areia.
+Ref: Malenia, Elden Ring
 
 
-### Adolescentes
+### Outros
 
 #### Guto 
 Primo do protagonista
