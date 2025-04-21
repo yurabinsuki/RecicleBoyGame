@@ -25,8 +25,8 @@ ref: Kyomoto de look back
 
 #### Kenji
 O mais velho do grupo, meses depois de Canela.
-
-Um garoto asiático, mais introvertido e reservado, gosta de se expressar com gestos.
+Orienta o grupo com as informações que já tem.
+Serve como um ¨guia¨ durante o game, dando dicas do que é possível fazer
 
 #### Malena
 A mais nova do grupo, Irmã de Kenji.
@@ -35,7 +35,7 @@ Constrói castelos de areia.
 Ref: Malenia, Elden Ring
 
 
-### Outros
+### Salva Vidas
 
 #### Guto 
 Primo do protagonista
@@ -43,12 +43,17 @@ Trabalha como aprendiz de salva vidas.
 
 Tem uma personalidade brincalhona e irônica
 
-#### Love
+
+---
+
+### Iterativos
 
 
-#### Eddy
-Faz natação
 
+
+---
+
+### Genéricos
 
 
 

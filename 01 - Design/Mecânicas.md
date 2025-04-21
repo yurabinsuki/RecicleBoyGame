@@ -20,21 +20,31 @@
 
 ---
 ## Itens
+
+#### Saco
+Entregue no início por [[RecicleBoyGame/02 - Narrativa/Personagens#Kenji|Kenji]]
+
+Item necessário para coletar os lixos.
+
+#### Lata reciclável
+Item entregue por 
+
 #### Pranchinha
 Liberada a mecânica por [[RecicleBoyGame/02 - Narrativa/Personagens#Eddy|Eddy]].
 
 Uma prancha de surf infantil que consegue atravessar tiles de água espalhados pelo cenário, utilizada para conseguir acessar locais secretos. 
 
 #### Pazinha
-Utilitário adquirido de [[RecicleBoyGame/02 - Narrativa/Personagens#Gael|Gael]].
+Utilitário adquirido de [[RecicleBoyGame/02 - Narrativa/Personagens#Malena|Malena]].
 Possibilita o player a cavar em locais determinados marcados no mapa.
 
 #### Pose
-Habilidade aprendida com [[RecicleBoyGame/02 - Narrativa/Personagens#Kenji|Kenji]].
+Habilidade aprendida com [[RecicleBoyGame/02 - Narrativa/Personagens#Bran|Bran]].
 Possibilita ao player utilizar uma Pose para conseguir interagir com certos npcs.
 
-Notas
-
+#### Notas
+Entregue por [[RecicleBoyGame/02 - Narrativa/Personagens#Brisa|Brisa]].
+Serve como um log de quests para o jogador.
 
 ---
 ## Dano
