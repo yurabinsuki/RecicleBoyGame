@@ -1,10 +1,30 @@
 
 - [x] Mudar para somente 4 direções
 - [x] Fazer o sprite das anotações
-- [ ] Fazer os sprites iniciais dos personagens principais
+- [x] Fazer os sprites iniciais dos personagens principais
 	- [x] Bran
+	- [x] Malena
+	- [x] Guto
+	- [x] Brisa
+	- [x] Romeu
+- [ ] Terminar de escrever a quests do jogo
+	- [x] Malena
+	- [x] Bran
+	- [x] Gruta
+	- [x] Animais perdidos
+	- [ ] Kenji
+	- [ ] Brisa
+	- [ ] Guto (?)
 - [ ] Fazer as animações de uso dos itens
 	- [x] Volei
+	- [ ] Pazinha
+	- [ ] Pranchinha
+	- [ ] Saco de lixo
+	- [ ] Lata de lixo
+- [ ] Fazer os sprites das estruturas
+	- [x] Quiosque
+	- [x] Posto do salva vidas
+	- [x] Carrinho de picole
 - [ ] Escolher o titulo do game 
 - [x] Fazer o canva com as sprites realizadas
 - [x] Fazer as sprites dos itens coletáveis

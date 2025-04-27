@@ -9,28 +9,27 @@
 
 #### Ataques
 - Ataque com saco de lixo
-- Ataque com lata de lixo (boss)
+- Ataque com lata de lixo 
 - Arremessar bola, deve buscar depois.
 
 #### Utilizar itens
 - Cavar
-- Pose
-- Câmera (acesso ao Hud)
+- Pescar
 
 
 ---
 ## Itens
 
 #### Saco
-Entregue no início por [[RecicleBoyGame/02 - Narrativa/Personagens#Kenji|Kenji]]
+Entregue no início por [[RecicleBoyGame/02 - Narrativa/Personagens#Guto|Guto]]
 
 Item necessário para coletar os lixos.
 
 #### Lata reciclável
-Item entregue por 
+Item encontrado pelo mapa.
 
 #### Pranchinha
-Liberada a mecânica por [[RecicleBoyGame/02 - Narrativa/Personagens#Eddy|Eddy]].
+Liberada a mecânica após vencer o Torneio.
 
 Uma prancha de surf infantil que consegue atravessar tiles de água espalhados pelo cenário, utilizada para conseguir acessar locais secretos. 
 
@@ -39,28 +38,17 @@ Utilitário adquirido de [[RecicleBoyGame/02 - Narrativa/Personagens#Malena|Male
 Possibilita o player a cavar em locais determinados marcados no mapa.
 
 #### Pose
-Habilidade aprendida com [[RecicleBoyGame/02 - Narrativa/Personagens#Bran|Bran]].
-Possibilita ao player utilizar uma Pose para conseguir interagir com certos npcs.
+Habilidade aprendida com [[RecicleBoyGame/02 - Narrativa/Personagens#Kenji|Kenji]].
+No cenário tem locais onde a água se ¨meche¨, nesses locais pode-se pescar para conseguir itens.
 
 #### Notas
 Entregue por [[RecicleBoyGame/02 - Narrativa/Personagens#Brisa|Brisa]].
 Serve como um log de quests para o jogador.
 
----
-## Dano
-O personagem vai ficando sujo conforme recebe dano.
-
-Para recuperar vida, somente dentro da própria fase, indo num chuveirinho de praia.
-
 
 ---
 
-## Os lixos
 
-#### Spawn de Lixo
-- A origem dos ¨monstros¨ são por conta de npcs que ficam descartando lixo, o jogador deve neutralizar com o botão de ¨pose¨, inspirado em [pizza tower](https://www.youtube.com/watch?v=1tUpA4edMoI) 
-Pose com placa de proibido lixo.
+## Morte
 
-
----
-
+Cada vez que o player falhar ou morrer, o jogo transiciona para um balão de pensamentos e a mensagem dizendo ¨Ainda bem que isso não aconteceu¨
